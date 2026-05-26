@@ -1,0 +1,35 @@
+# data hasil ekstraksi (generate sendiri)
+data/
+
+# model binary (besar, regenerate dengan script 02)
+models/*.joblib
+models/*.pkl
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# virtual env
+venv/
+env/
+.env
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
+nohup.out
+
+# OS
+.DS_Store
+Thumbs.db
