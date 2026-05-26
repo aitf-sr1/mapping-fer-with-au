@@ -1,6 +1,3 @@
-# data hasil ekstraksi (generate sendiri)
-data/
-
 # model binary (besar, regenerate dengan script 02)
 models/*.joblib
 models/*.pkl
